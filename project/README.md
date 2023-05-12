@@ -1,1 +1,1 @@
-![Project repository link](https://github.com/aalexren/iu-bigdata-project)
+[Project repository link](https://github.com/aalexren/iu-bigdata-project)
